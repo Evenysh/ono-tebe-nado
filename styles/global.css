@@ -29,6 +29,10 @@ a {
   color: inherit;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 img {
   width: 100%;
 }
